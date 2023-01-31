@@ -1,2 +1,2 @@
-# SBOM creation in Colab
-A jupyter notebook to try creating SBOM in Google Colaboratory
+# SBOM Playground
+A jupyter notebook to try SBOM in Google Colaboratory
